@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tempCalculator</string>
+
+    <string-array name="UnitofTemp">
+        <item>°C องศาเซลเซียส	</item>
+        <item>°F องศาฟาเรนไฮต์</item>
+        <item>°K เคลวิน</item>
+        <item>°R องศาโรเมอร์</item>
+    </string-array>
+</resources>
